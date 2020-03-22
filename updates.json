@@ -1,0 +1,104 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 117945489,
+      "message": {
+        "message_id": 16,
+        "from": {
+          "id": 592750571,
+          "is_bot": false,
+          "first_name": "Yura",
+          "last_name": "Pro100fast",
+          "username": "pro100fast",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592750571,
+          "first_name": "Yura",
+          "last_name": "Pro100fast",
+          "username": "pro100fast",
+          "type": "private"
+        },
+        "date": 1581191016,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 117945490,
+      "message": {
+        "message_id": 19,
+        "from": {
+          "id": 592750571,
+          "is_bot": false,
+          "first_name": "Yura",
+          "last_name": "Pro100fast",
+          "username": "pro100fast",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592750571,
+          "first_name": "Yura",
+          "last_name": "Pro100fast",
+          "username": "pro100fast",
+          "type": "private"
+        },
+        "date": 1581194577,
+        "text": "привет"
+      }
+    },
+    {
+      "update_id": 117945491,
+      "message": {
+        "message_id": 20,
+        "from": {
+          "id": 592750571,
+          "is_bot": false,
+          "first_name": "Yura",
+          "last_name": "Pro100fast",
+          "username": "pro100fast",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592750571,
+          "first_name": "Yura",
+          "last_name": "Pro100fast",
+          "username": "pro100fast",
+          "type": "private"
+        },
+        "date": 1581194713,
+        "text": "привет"
+      }
+    },
+    {
+      "update_id": 117945492,
+      "message": {
+        "message_id": 21,
+        "from": {
+          "id": 592750571,
+          "is_bot": false,
+          "first_name": "Yura",
+          "last_name": "Pro100fast",
+          "username": "pro100fast",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592750571,
+          "first_name": "Yura",
+          "last_name": "Pro100fast",
+          "username": "pro100fast",
+          "type": "private"
+        },
+        "date": 1581197428,
+        "text": "sssss"
+      }
+    }
+  ]
+}
